@@ -27,7 +27,7 @@
     "start": "bin/noodle-server"
   },
   "engines": {
-    "node": "0.6.x"
+    "node": "^0.6.x"
   },
   "repository": {
     "type": "git",
